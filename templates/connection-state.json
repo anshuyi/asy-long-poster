@@ -1,0 +1,23 @@
+{
+  "status": "planned",
+  "upper": "s01",
+  "lower": "s02",
+  "connection_type": "replaceable_background",
+  "upper_region": [
+    0,
+    1356,
+    1024,
+    1536
+  ],
+  "lower_region": [
+    0,
+    0,
+    1024,
+    180
+  ],
+  "anchor": null,
+  "tolerance_px": null,
+  "observed": false,
+  "seam_policy": "natural",
+  "preview_id": null
+}

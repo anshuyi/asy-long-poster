@@ -1,0 +1,17 @@
+[
+  {
+    "id": "s01",
+    "text": "让想法成为作品\n看见问题",
+    "generation_notes": "Generate ONLY FIRST slice of ONE very tall 3-slice poster. Portrait 1024x1536. Exact Chinese title 让想法成为作品 near top, secondary text 看见问题 in middle. Beautiful editorial gouache illustration of a magnifying glass inspecting a tiny orange seed and sketchbook, navy and ochre on warm ivory #F6F2E7. Plenty of negative space. At bottom 220 pixels, absolutely uniform solid warm ivory background, no objects, no text, no shadows, no gradients. Full-bleed background to every edge, no border. NO footer or separate-card effect. A tasteful first slice with unresolved downward flow. No other text."
+  },
+  {
+    "id": "s02",
+    "text": "画出路径",
+    "generation_notes": "Continue BELOW the previous actual slice, never reproduce its title or illustration. Top 220px empty identical ivory background. Center editorial illustration of a navy winding road and orange pencil drawing a plan, text exactly 画出路径. Bottom 200px ivory and a single thin dark navy vertical road line centered at x=512, 12 pixels wide, crossing the bottom edge vertically. All important content in y=300..1150. No footer, no total title."
+  },
+  {
+    "id": "s03",
+    "text": "动手完成",
+    "generation_notes": "Continue BELOW the previous actual slice. Top 200px same warm ivory background and one navy vertical line centered x=512 width12 continuing downwards into editorial illustration of a completed small orange-and-navy paper kite. Text exactly 动手完成, centered and readable. This is the last slice: finish with a small orange dot, calm conclusion. No repeated title or prior content."
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "ratio": "2:3 portrait",
+  "requested_size": "1024x1536",
+  "background": "#F6F2E7 uniform",
+  "palette": [
+    "#F6F2E7",
+    "#192F38",
+    "#DC763C"
+  ],
+  "typography": "Chinese bold sans titles, spacious",
+  "left_margin": 100,
+  "right_margin": 100,
+  "connection_band": 180,
+  "continuity": "Match actual paper and palette; decorative paths may fade inside empty safe connection bands."
+}

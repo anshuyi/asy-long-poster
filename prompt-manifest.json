@@ -1,0 +1,31 @@
+{
+  "source_filename": "连续长海报生成Skill_完整开发方案_v2.1.md",
+  "source_sha256": "842830c4faf70825903587fe2f107b9ac478ef2a067ef434e4d60e9bafc3486c",
+  "prompts": [
+    {
+      "path": "references/segment-planning-prompt.md",
+      "sha256": "838a595d947bb20994d4fc00ee338c791a80930da5add251598fcb346c7fbac2",
+      "source_status": "included_in_v2.1_original_pdf_unverified"
+    },
+    {
+      "path": "references/continuous-generation-prompt.md",
+      "sha256": "b80308bff0d9461c46234825780da5e3028916246a666b8e0291800cb41c0179",
+      "source_status": "included_in_v2.1_original_pdf_unverified"
+    },
+    {
+      "path": "references/stitch-planning-prompt.md",
+      "sha256": "b136c0bd11248520656f5261b82142f5a76e4f5ca57a62101ca3460bc56ba6c7",
+      "source_status": "included_in_v2.1_original_pdf_unverified"
+    },
+    {
+      "path": "references/stitch-execution-prompt.md",
+      "sha256": "2dc6b8e42f1a7e446d588846b824c3826b127f5435897f47d1c1e4e056828d7a",
+      "source_status": "included_in_v2.1_original_pdf_unverified"
+    },
+    {
+      "path": "references/global-reasoning.md",
+      "sha256": "d594c7690265f97651f388c96fe264888ec4188003f359da0b8353db39ab3a73",
+      "source_status": "included_in_v2.1_original_pdf_unverified"
+    }
+  ]
+}

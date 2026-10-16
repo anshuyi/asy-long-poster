@@ -1,0 +1,13 @@
+{
+  "schema_version": "1.1",
+  "plan_version": 1,
+  "coordinate_space": "normalized_pixels",
+  "target_width": 1024,
+  "segments": [],
+  "seams": [],
+  "output": {
+    "path": "outputs/final-v1.png",
+    "format": "PNG"
+  },
+  "expected_height": null
+}

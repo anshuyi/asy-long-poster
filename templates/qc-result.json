@@ -1,0 +1,16 @@
+{
+  "subject_sha256": null,
+  "previous_sha256": null,
+  "reviewer": "model",
+  "notes": "REPLACE_WITH_ACTUAL_OBSERVATIONS",
+  "checks": {
+    "content": "pending",
+    "visual": "pending",
+    "geometry": "pending",
+    "outgoing": "pending",
+    "incoming": "pending"
+  },
+  "protected_boxes": [],
+  "evidence_files": [],
+  "preview_id": null
+}

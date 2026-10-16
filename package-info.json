@@ -1,0 +1,11 @@
+{
+  "name": "asy-long-poster",
+  "version": "0.2.0",
+  "spec_version": "2.2",
+  "created_with": "asy-skill-maintenance",
+  "runtime": "Python 3.10+ and Pillow; host image-generation and vision tools",
+  "installation": "copy this repository into the host skill directory as asy-long-poster",
+  "publication": "https://github.com/anshuyi/asy-long-poster",
+  "license": "MIT",
+  "source_provenance": "five included prompts preserved; original PDF unavailable"
+}
